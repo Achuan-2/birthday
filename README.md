@@ -1,4 +1,4 @@
-# birthday
+# print_birthday
 print birthday in github contributions
 
 
